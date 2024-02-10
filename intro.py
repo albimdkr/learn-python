@@ -40,5 +40,10 @@ print(type(b))
 s = 'Learn Python Programming'
 print(type(s))
 
+# Indexing substring
+myInisialName = 'Albi'
+print(myInisialName[0])
+
+
 
 
