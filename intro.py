@@ -1,22 +1,22 @@
 # Variable
-# greeting = 'Hello World!'
-# print (greeting)
+greeting = 'Hello World!'
+print (greeting)
 
 # Additional
-# addition = 2+2
-# result = addition - 1
-# print (result)
+addition = 2+2
+result = addition - 1
+print (result)
 
 # Input
-# name = input('Input your name: ')
-# print(name)
+name = input('Input your name: ')
+print(name)
 
 # Data Typing (Dynamic)
-# x = 5
-# print(type(x)) #int
+x = 5
+print(type(x)) #int
 
-# x = "5"
-# print(type(x)) #str
+x = "5"
+print(type(x)) #str
 
 # Data Type
 # Number
@@ -48,6 +48,8 @@ print(myInisialName[0])
 # indexing and slicing
 myLastName = 'AlbiMudakar'
 print(myLastName[4:])
+
+
 
 
 
