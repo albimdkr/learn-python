@@ -36,6 +36,9 @@ print(type(b))
 b = False
 print(type(b))
 
+# String
+s = 'Learn Python Programming'
+print(type(s))
 
 
 
