@@ -19,6 +19,7 @@
 # print(type(x)) #str
 
 # Data Type
+# Number
 x = 6
 print(type(x))
 
@@ -27,6 +28,14 @@ print(type(x))
 
 x = 1+2j
 print(type(x))
+
+# Boolean
+b = True
+print(type(b))
+
+b = False
+print(type(b))
+
 
 
 
