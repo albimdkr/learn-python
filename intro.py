@@ -45,5 +45,9 @@ myInisialName = 'Albi'
 print(myInisialName[0])
 
 
+# indexing and slicing
+myLastName = 'AlbiMudakar'
+print(myLastName[4:])
+
 
 
