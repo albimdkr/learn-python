@@ -10,3 +10,13 @@ print (result)
 # Input
 name = input('Input your name: ')
 print(name)
+
+# Data Typing (Dynamic)
+x = 5
+print(type(x)) #int
+
+x = "5"
+print(type(x)) #str
+
+
+
