@@ -49,7 +49,20 @@ print(myInisialName[0])
 myLastName = 'AlbiMudakar'
 print(myLastName[4:])
 
+# Formatted String
+NameUser = input("input your name: ")
+print(f"Hello, my name is {NameUser}")
 
+# Type Data Collection List
+l = [1, 'albi', True, 1.0]
+print(l[2])
+
+
+# Slicing Python
+dataList = ["laptop", "monitor", "mouse", "mousepad", "keyboard", "webcam", "microphone"]
+print(dataList[0:5:2])
+print(dataList[1:])
+print(x[:3])
 
 
 
