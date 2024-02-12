@@ -62,7 +62,7 @@ print(l[2])
 dataList = ["laptop", "monitor", "mouse", "mousepad", "keyboard", "webcam", "microphone"]
 print(dataList[0:5:2])
 print(dataList[1:])
-print(x[:3])
+# print(x[:3]) = 'complex' object is not subscriptable
 
 # Tuple
 dataTuple = (5, "albi", 1+3j)
@@ -71,6 +71,20 @@ print(type(dataTuple))
 # Tuple Slicing
 print(dataTuple[1])
 print(dataTuple[0:3])
+
+# Set
+dataSet = {1, 2, 7, 2, 3, 13, 3}
+print(dataSet)
+print(type(dataSet))
+
+# Set .union() and intersection()
+set1 =  {1,2,3,4,5}
+set2 = {4,5,6,7,8}
+union = set1.union(set2)
+print("union", union) #union {1, 2, 3, 4, 5, 6, 7, 8}
+
+intersection = set1.intersection(set2)
+print("intersection", intersection) #union {4, 5,}
 
 
 
