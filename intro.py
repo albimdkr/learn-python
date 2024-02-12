@@ -102,6 +102,25 @@ print(dataDisctionary)
 # dataDisctionary ['age'] = 22
 # print(dataDisctionary)
 
+# Convertion Data
+# Float
+print(float(5))
 
+# Float to Int
+print(int(5.6))
+print(int(-5.6)) 
 
+# To Str
+print(int("25"))
+print(str(25))
+print(float("25"))
+print(str(25.6))
+
+# Collection Data
+print(set([1,2,3]))
+print(tuple({5,6,7}))
+print(list('hello'))
+
+# Dictionary
+print(dict([[1,2],[3,4]]))
 
