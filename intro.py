@@ -86,7 +86,21 @@ print("union", union) #union {1, 2, 3, 4, 5, 6, 7, 8}
 intersection = set1.intersection(set2)
 print("intersection", intersection) #union {4, 5,}
 
+# Dictionary
+dataDisctionary = {'name': 'John doe', 'age':20, 'isMarried': False}
+print(dataDisctionary)
+print(dataDisctionary ['name'])
+# add data Dictionry
+dataDisctionary = "Cloud Engineer"
+print(dataDisctionary)
 
+# Del data Dictionary
+# del dataDisctionary['name']
+# print(dataDisctionary)
+
+# Edit data dictoonary
+# dataDisctionary ['age'] = 22
+# print(dataDisctionary)
 
 
 
