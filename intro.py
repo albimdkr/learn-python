@@ -64,5 +64,16 @@ print(dataList[0:5:2])
 print(dataList[1:])
 print(x[:3])
 
+# Tuple
+dataTuple = (5, "albi", 1+3j)
+print(type(dataTuple))
+
+# Tuple Slicing
+print(dataTuple[1])
+print(dataTuple[0:3])
+
+
+
+
 
 
